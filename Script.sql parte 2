@@ -1,0 +1,5 @@
+Ejercicio 2
+
+INSERT INTO perro VALUES (1,'Leopoldo','2022-02-22', 'M',97258439)
+
+INSERT INTO dueno VALUES (97258439, 'Rosa', 'Lula', '394312180','Caballito 521')
